@@ -3,7 +3,7 @@
 
 ## 🛠 Core Skills
 
-* **Cloud:** LKS, AWS, EKS, EC2, IAM, VPC, S3
+* **Cloud:** LKE, AWS, EKS, EC2, IAM, VPC, S3
 * **Containers:** Docker, Kubernetes, Helm
 * **Infrastructure as Code:** Terraform, Ansible
 * **CI/CD:** Jenkins, Git, Maven, Nexus
@@ -15,9 +15,9 @@
 ## 🚀 Featured Projects
 
 
-### [End-to-End CI/CD Pipeline with AWS EC2](https://github.com/TonyRamos1982/CD_Deploy_Application_Jenkins_Pipeline_EC2_Instance_-automatically_with_docker-) (Nearly Completed)
-Built a complete CI/CD workflow using Jenkins, Docker, and Kubernetes, deploying a containerized application to AWS EKS.
-* **Technologies:** Jenkins · Docker · AWS EC2 · Maven
+### [Deploy Microservice App in LKS cluster w/ Production and Security Best Practices](https://github.com/TonyRamos1982/CD_Deploy_Application_Jenkins_Pipeline_EC2_Instance_-automatically_with_docker-) 
+Create K8s manifests for Deployments and Services for all microservices of an online shop application and deploy microservices to Linode’s managed Kubernetes cluster.
+* **Technologies:** Kubernetes · Redis · Linux · LKE
 * [View Project →]((https://github.com/TonyRamos1982/CD_Deploy_Application_Jenkins_Pipeline_EC2_Instance_-automatically_with_docker-))
   
 ### [End-to-End CI/CD Pipeline with AWS EC2](https://github.com/TonyRamos1982/CD_Deploy_Application_Jenkins_Pipeline_EC2_Instance_-automatically_with_docker-) (Nearly Completed)
