@@ -14,12 +14,12 @@
 
 ## 🚀 Featured Projects
 
-### [End-to-End CI/CD Pipeline with AWS EC2](https://github.com/Sasha-Kirsten/CD_Deploy_Application_Jenkins_Pipeline_EC2_Instance_-automatically_with_docker-) (Nearly Completed)
+### [End-to-End CI/CD Pipeline with AWS EC2](https://github.com/TonyRamos1982/CD_Deploy_Application_Jenkins_Pipeline_EC2_Instance_-automatically_with_docker-) (Nearly Completed)
 Built a complete CI/CD workflow using Jenkins, Docker, and Kubernetes, deploying a containerized application to AWS EKS.
 * **Technologies:** Jenkins · Docker · AWS EC2 · Maven
 * [View Project →]((https://github.com/Sasha-Kirsten/CD_Deploy_Application_Jenkins_Pipeline_EC2_Instance_-automatically_with_docker-))
 
-### [Infrastructure Automation with Terraform](https://github.com/Sasha-Kirsten/Terraform_and_AWS_EKS) (Nearly Completed)
+### [Infrastructure Automation with Terraform](https://github.com/TonyRamos1982/Terraform_and_AWS_EKS) (Nearly Completed)
 Automated AWS infrastructure provisioning and integrated Terraform into the CI/CD workflow.
 * **Technologies:** Terraform · AWS · Jenkins · Docker
 * [View Project →](https://github.com/Sasha-Kirsten/Terraform_and_AWS_EKS)
