@@ -3,7 +3,7 @@
 
 ## 🛠 Core Skills
 
-* **Cloud:** AWS, EKS, EC2, IAM, VPC, S3
+* **Cloud:** LKS, AWS, EKS, EC2, IAM, VPC, S3
 * **Containers:** Docker, Kubernetes, Helm
 * **Infrastructure as Code:** Terraform, Ansible
 * **CI/CD:** Jenkins, Git, Maven, Nexus
