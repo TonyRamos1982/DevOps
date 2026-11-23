@@ -17,7 +17,7 @@
 
 ### [Linode-Kubernetes-Cluster-with-MongoDB-stateful-set](https://github.com/TonyRamos1982/Linode-Kubernetes-cluster-with-MongoDB-stateful-set-) 
 Install a stateful service (MongoDB) on Kubernetes using Helm
-* **Technologies:** Kubernetes · Helm · MongoDB · Linux · LKE
+* **Technologies:** Kubernetes · Helm · MongoDB · Mongo-Express · Linux · LKE
 * [View Project →](https://github.com/TonyRamos1982/Linode-Kubernetes-cluster-with-MongoDB-stateful-set-)
 
 
