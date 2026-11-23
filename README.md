@@ -16,9 +16,9 @@
 
 
 ### [Linode-Kubernetes-Cluster-with-MongoDB-stateful-set](https://github.com/TonyRamos1982/Linode-Kubernetes-cluster-with-MongoDB-stateful-set-) 
-Create K8s manifests for Deployments and Services for all microservices of an online shop application and deploy microservices to Linode’s managed Kubernetes cluster.
+Install a stateful service (MongoDB) on Kubernetes using Helm
 * **Technologies:** Kubernetes · Helm · MongoDB · Linux · LKE
-* [View Project →]((https://github.com/TonyRamos1982/Linode-Kubernetes-cluster-with-MongoDB-stateful-set-))
+* [View Project →](https://github.com/TonyRamos1982/Linode-Kubernetes-cluster-with-MongoDB-stateful-set-)
 
 
 ### [Deploy Microservice App in LKE cluster w/ Production and Security Best Practices](https://github.com/TonyRamos1982/CD_Deploy_Application_Jenkins_Pipeline_EC2_Instance_-automatically_with_docker-) 
